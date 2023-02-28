@@ -1,0 +1,5 @@
+﻿  binary_tree.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+main.obj : error LNK2019: "public: void __cdecl binary_tree_node<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > >::print(class binary_tree_node<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > const *,int)" (?print@?$binary_tree_node@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@@QEAAXPEBV1@H@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\daida\Desktop\HW3_2018741022\x64\Debug\HW3_2018741022.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
